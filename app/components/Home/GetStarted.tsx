@@ -6,7 +6,7 @@ export const GetStarted = () => {
       <div
         className="started-backdrop block h-[250px] max-h-[250px] md:m-auto md:mt-[-5%] md:h-[650px] md:max-h-[650px] md:w-[950px]"
         style={{
-          backgroundImage: `url(https://a.ltrbxd.com/resized/sm/upload/tx/hy/xj/lw/sanctuary-2023-1200-1200-675-675-crop-000000.jpg?v=b1d98010cd)`,
+          backgroundImage: `url(https://a.ltrbxd.com/resized/sm/upload/9x/mt/3l/1s/78Bgar8OaUalLNLWNtD4xr6AD8T-1920-1920-1080-1080-crop-000000.jpg?v=9a333c6d42)`,
         }}
       ></div>
 
