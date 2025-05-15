@@ -13,7 +13,7 @@ Letterboxd Clone
 ### On Browser
 
 ![Preview of the LetterboxD-Clone]
-<img width="1423" alt="Desktop 1" src="https://github.com/user-attachments/assets/79c29e99-eee3-443e-a78e-d814c925a331" />
+<img width="1440" alt="Desktop 1" src="https://github.com/user-attachments/assets/a1008461-4ff8-4a34-af15-612eca1ad522" />
 <img width="1437" alt="Desktop 2" src="https://github.com/user-attachments/assets/6c2ffc7c-659e-4744-87fc-22019043083e" />
 <img width="1438" alt="Desktop 3" src="https://github.com/user-attachments/assets/7ebcd102-dfa5-4d13-8618-624dad2f33c0" />
 <img width="1440" alt="Desktop 4" src="https://github.com/user-attachments/assets/af81ee6e-985f-4cc8-b813-2fc6cba84bb8" />
